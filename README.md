@@ -36,7 +36,7 @@ Adivina-el-Numero
 6. Presiona **F5** o haz clic en **Iniciar** para compilar y ejecutar.
 
 ## 🧠 Lógica del juego 
-
+Ir a ```Adivina-el-Numero.vb``` para ver el codigo.
 ## 📸 Capturas de pantalla
 <img width="557" height="350" alt="image" src="https://github.com/user-attachments/assets/3e2b6c35-9706-47f0-bfed-45e4898c8940" />
 
