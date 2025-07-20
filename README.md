@@ -27,7 +27,7 @@ Adivina-el-Numero
 
 1. Clona el repositorio:
    ```bash
-   
+   https://github.com/Hairaly/Adivina-el-Numero.git
    ```
 2. Abre el archivo `.sln` en Visual Studio.
 3. Presiona **F5** o haz clic en **Iniciar** para compilar y ejecutar.
